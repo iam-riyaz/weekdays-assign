@@ -1,0 +1,15 @@
+.cardList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap:20px
+}
+
+.main-page{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    gap:50px
+}
+
