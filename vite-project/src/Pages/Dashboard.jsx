@@ -24,7 +24,7 @@ function Dashboard() {
         {jobs.map((job) => {
           return (
             <>
-              <JobCard />
+              <JobCard job={job} />
             </>
           );
         })}
